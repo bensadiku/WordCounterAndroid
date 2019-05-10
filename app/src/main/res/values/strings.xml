@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="total_words">Total words: <![CDATA[<b>%1$d</b>. Total letters: <b>%2$d</b>]]> </string>
+    <string name="word_init">Total words: <b>0</b>. Total letters: <b>0</b></string>
+    <string name="edit_text_hint">Paste text:</string>
+    <string name="calculate_btn_text">Calculate</string>
+    <string name="clear_btn_text">Clear</string>
+</resources>

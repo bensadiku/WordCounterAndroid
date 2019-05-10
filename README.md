@@ -1,2 +1,16 @@
 # WordCounterAndroid
-A superbasic word counter Android app that counts words and letters
+Got tired of looking up word counter websites so i built a simple light app that does exactly what i need, count words, without having to google and all that work.
+
+Copyright 2019 Ben Sadiku
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
